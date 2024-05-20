@@ -1,0 +1,11 @@
+fastapi
+pydantic
+sqlalchemy
+numpy
+pandas
+seaborn
+matplotlib
+sklearn
+arff
+torch
+networkx
