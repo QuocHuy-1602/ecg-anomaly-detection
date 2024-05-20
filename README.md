@@ -24,5 +24,5 @@ This project employs two models:
 
 2. GPT-2 Model: This model generates stories based on the processed ECG data. It is loaded from the pre-trained gpt2 model provided by the transformers library.'
 
-#Contributing
+## Contributing
 Contributions are welcome! If you wish to contribute, please fork the repository and create a pull request. Make sure to update tests as appropriate and adhere to the coding standards.
